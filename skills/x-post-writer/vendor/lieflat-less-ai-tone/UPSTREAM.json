@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/larashero3-dotcom/lieflat-less-ai-tone",
+  "commit": "53160078a04926d98de57a233549612d1b89bdc9",
+  "retrieved": "2026-11-09",
+  "author": "shiujan",
+  "license": "CC BY-NC 4.0",
+  "modifications": "none; original bytes preserved",
+  "files": {
+    "scripts/detect.py": "0f5c4fede3c11a574c2394f7a8470ef6cb70777ea32eb407bb1c837dd0d9ec6a",
+    "scripts/report.py": "77dea89bac8a27d42e75d700e9fd0237906d85fa09d528db8a5cad2e3149795c",
+    "references/semantic-criteria.md": "bdb00c7452c407853968e8ecbf7fdc7d7529971cf0656beb552f4c1167b79638",
+    "LICENSE": "e4f5e51b1851ab7ab1146d4285b50ca7065a9797bc58c321bb3d793daa0a99f6"
+  }
+}
